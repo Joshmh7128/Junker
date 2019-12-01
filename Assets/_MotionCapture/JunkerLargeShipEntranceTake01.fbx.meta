@@ -75,8 +75,286 @@ ModelImporter:
   copyAvatar: 0
   humanDescription:
     serializedVersion: 3
-    human: []
-    skeleton: []
+    human:
+    - boneName: Skeleton 006_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Skeleton 006_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: JunkerLargeShipEntranceTake01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_Hips
+      parentName: JunkerLargeShipEntranceTake01(Clone)
+      position: {x: 0, y: 0.93828654, z: 0}
+      rotation: {x: -0.0023485073, y: -0.018702189, z: -0.008878585, w: 0.9997829}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_Spine
+      parentName: Skeleton 006_Hips
+      position: {x: -0, y: 0.07627986, z: 0}
+      rotation: {x: 0.007648858, y: -0.004854708, z: -0.009794401, w: 0.999911}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_Spine1
+      parentName: Skeleton 006_Spine
+      position: {x: -0.000000014901161, y: 0.18214017, z: 0.00000014901161}
+      rotation: {x: -0.0010328174, y: -0.0016205779, z: 0.0051173735, w: 0.9999851}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_Neck
+      parentName: Skeleton 006_Spine1
+      position: {x: -0, y: 0.20945959, z: 0}
+      rotation: {x: 0.037398204, y: 0.055914618, z: -0.018951464, w: 0.9975549}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_Head
+      parentName: Skeleton 006_Neck
+      position: {x: -0, y: 0.14418755, z: 0.018604845}
+      rotation: {x: -0.030864589, y: 0.053915497, z: 0.0068917377, w: 0.9980446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftShoulder
+      parentName: Skeleton 006_Spine1
+      position: {x: -0.036998536, y: 0.17039561, z: -0.00063991547}
+      rotation: {x: 0.0399339, y: -0.112874895, z: -0.07533724, w: 0.98994386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftArm
+      parentName: Skeleton 006_LeftShoulder
+      position: {x: -0.118060365, y: 0, z: 0}
+      rotation: {x: -0.36426234, y: 0.035793398, z: 0.117507584, w: 0.9231597}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftForeArm
+      parentName: Skeleton 006_LeftArm
+      position: {x: -0.22399476, y: 0, z: 0}
+      rotation: {x: 0.16224001, y: 0.022921091, z: -0.01525522, w: 0.9863671}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftHand
+      parentName: Skeleton 006_LeftForeArm
+      position: {x: -0.28386804, y: -0.00000035762787, z: 0.00000011920929}
+      rotation: {x: 0.19442055, y: 0.21987335, z: 0.23825152, w: 0.92579293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightShoulder
+      parentName: Skeleton 006_Spine1
+      position: {x: 0.037036717, y: 0.17039561, z: -0.00063991547}
+      rotation: {x: 0.040431697, y: -0.05521036, z: 0.049944818, w: 0.9964048}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightArm
+      parentName: Skeleton 006_RightShoulder
+      position: {x: 0.118060365, y: 0, z: 0}
+      rotation: {x: -0.045107983, y: 0.029449726, z: -0.07049758, w: 0.99605626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightForeArm
+      parentName: Skeleton 006_RightArm
+      position: {x: 0.22399476, y: 0, z: 0}
+      rotation: {x: 0.09365202, y: -0.030330095, z: 0.009079712, w: 0.99510145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightHand
+      parentName: Skeleton 006_RightForeArm
+      position: {x: 0.29549628, y: 0.00000023841858, z: 0}
+      rotation: {x: 0.09434291, y: 0.04432538, z: -0.2726542, w: 0.95644885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftUpLeg
+      parentName: Skeleton 006_Hips
+      position: {x: -0.09302423, y: 0, z: 0}
+      rotation: {x: -0.06407764, y: 0.000031482796, z: 0.022104295, w: 0.9977001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftLeg
+      parentName: Skeleton 006_LeftUpLeg
+      position: {x: -0, y: -0.4562835, z: 0}
+      rotation: {x: 0.11504528, y: -0.031809885, z: -0.019018045, w: 0.9926687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftFoot
+      parentName: Skeleton 006_LeftLeg
+      position: {x: 0.000040575862, y: -0.40772521, z: -0.00048023462}
+      rotation: {x: -0.06971679, y: 0.07522278, z: 0.033420436, w: 0.9941651}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_LeftToeBase
+      parentName: Skeleton 006_LeftFoot
+      position: {x: -0, y: -0.060465746, z: 0.13953635}
+      rotation: {x: -0.051075067, y: -0.030399486, z: 0.027985394, w: 0.9978397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightUpLeg
+      parentName: Skeleton 006_Hips
+      position: {x: 0.09302423, y: 0, z: 0}
+      rotation: {x: -0.015108733, y: 0.08688361, z: -0.018293966, w: 0.9959359}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightLeg
+      parentName: Skeleton 006_RightUpLeg
+      position: {x: -0, y: -0.4562835, z: 0}
+      rotation: {x: 0.15771313, y: 0.04775771, z: 0.015330422, w: 0.98621035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightFoot
+      parentName: Skeleton 006_RightLeg
+      position: {x: -0.00028252602, y: -0.41450283, z: -0.00031849742}
+      rotation: {x: -0.15383483, y: -0.017198559, z: 0.0126268575, w: 0.9878662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skeleton 006_RightToeBase
+      parentName: Skeleton 006_RightFoot
+      position: {x: -0, y: -0.060465746, z: 0.13953635}
+      rotation: {x: -0.0013955536, y: -0.042375486, z: 0.046378262, w: 0.99802375}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
